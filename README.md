@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/utkarsh15o7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/utkarsh15o7" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/utkarsh15o7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/utkarsh15o7" height="1" width="1" /></a>
 <a href="https://www.linkedin.com/in/utkarsh-srivastava-707aa61b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-srivastava-707aa61b0/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/utkarsh15o7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/utkarsh15o7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/utkarshzz007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarshzz007" height="30" width="40" /></a>
