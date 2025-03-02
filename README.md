@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Srivastava</h1>
-<h3 align="center">"Building the future of Web3 & Blockchain from India 🇮🇳 | Smart Contracts, dApps, and Decentralized Innovation 🚀"
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z3aDczc29yMHk0ajZiaGUwbWNxZWhrdnJzbnR0YTJqb3BydDRkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RODiNw1qKHct74LACe/giphy.gif" alt="Ethereum GIF" width="30" height="30"/></h3>
+<h3 align="center">"Building the future of Web3 & Blockchain from India 🇮🇳 | Smart Contracts, dApps, and Decentralized Innovation 🚀"</h3>
 
 <img align = "right" alt="coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFudzZjYm1qdTZnenExcnlsdThoMGNnN2JtbDZ2ajRpajNncmc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 <p align="left">
   <a href="https://x.com/utkarsh15o7" target="blank">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRrazdjZXhkeGFjb2R1d3d6cjNmeGY0bmt0Nm5nejF1ZmVqNHZxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDGLRKwIMVXV5XLieP/giphy.gif" alt="X" width="30" height="30"/>
   </a>
-<!--   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z3aDczc29yMHk0ajZiaGUwbWNxZWhrdnJzbnR0YTJqb3BydDRkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RODiNw1qKHct74LACe/giphy.gif" alt="Ethereum GIF" width="30" height="30"/> -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z3aDczc29yMHk0ajZiaGUwbWNxZWhrdnJzbnR0YTJqb3BydDRkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RODiNw1qKHct74LACe/giphy.gif" alt="Ethereum GIF" width="30" height="30"/>
+
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFvZnN1eWhsMm55OTVnNnA3djA3MGg4bWNldnZ2OHZldGJ2aDViMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ha8ybobhuGnTZwrpjs/giphy.gif" alt="Trading GIF" width="30" height="30"/>
 <img src="https://media.tenor.com/8B0MS_jRpG8AAAAj/crypto-ethereum.gif" alt="PenguGIF" width="30" height="30"/>
 
