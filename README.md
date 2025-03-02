@@ -7,6 +7,7 @@
     <img src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="X" width="30" height="30"/>
   </a>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z3aDczc29yMHk0ajZiaGUwbWNxZWhrdnJzbnR0YTJqb3BydDRkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RODiNw1qKHct74LACe/giphy.gif" alt="Ethereum GIF" width="30" height="30"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFvZnN1eWhsMm55OTVnNnA3djA3MGg4bWNldnZ2OHZldGJ2aDViMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ha8ybobhuGnTZwrpjs/giphy.gif" alt="Trading GIF" width="30" height="30"/>
 </p>
 
 - 🔭 I’m currently working on **Decentralized Exchange**
