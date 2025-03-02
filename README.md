@@ -3,7 +3,7 @@
 
 <img align = "right" alt="coding" width="275" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFudzZjYm1qdTZnenExcnlsdThoMGNnN2JtbDZ2ajRpajNncmc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 <p align="left">
-  <a href="https://twitter.com/https://x.com/utkarsh15o7" target="blank">
+  <a href="https://x.com/utkarsh15o7" target="blank">
     <img src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="https://x.com/utkarsh15o7" width="30" height="30"/>
   </a>
 </p>
