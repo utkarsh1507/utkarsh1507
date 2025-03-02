@@ -4,7 +4,7 @@
 <img align = "right" alt="coding" width="275" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFudzZjYm1qdTZnenExcnlsdThoMGNnN2JtbDZ2ajRpajNncmc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 <p align="left"> <a href="https://twitter.com/https://x.com/utkarsh15o7" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/utkarsh15o7?logo=twitter&style=for-the-badge" alt="https://x.com/utkarsh15o7" /></a> </p>
 
-- 🔭 I’m currently working on **Web 3.0 Amazon Clone with Solidity, Ethers.js, React & Hardhat**
+- 🔭 I’m currently working on **Decentralized Exchange**
 
 - 🌱 I’m currently learning **Smart Contract Security, Smart Contract DevOps, Vyper**
 
