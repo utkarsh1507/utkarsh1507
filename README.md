@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh1507&show_icons=true&locale=en&layout=compact" alt="utkarsh1507" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1507&" alt="utkarsh1507" /></p>
+
