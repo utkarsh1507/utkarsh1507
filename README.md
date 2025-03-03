@@ -35,5 +35,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh1507&show_icons=true&locale=en&layout=compact" alt="utkarsh1507" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1507&" alt="utkarsh1507" /></p>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGg5bXhjcjFwMDR2N2p2bWt2NnN0Y295dDR3MWw0d21zM21vaGUzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" 
+     alt="New GIF" width="40" height="40" align="left" style="margin-right: 10px;"/>
+
 
 
