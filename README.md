@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Srivastava</h1>
 <h3 align="center">"Building the future of Web3 & Blockchain from India 🇮🇳 | Smart Contracts, dApps, and Decentralized Innovation 🚀"</h3>
 
-<img align = "right" alt="ETH" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWIyaTQ4cTlnNzFqMWN3eDU1Y3M4aWtobThxcnVvdmMxNG5pMTdxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RODiNw1qKHct74LACe/giphy.gif">
+<img align = "right" alt="ETH" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNkbmY4bWloa3N5NTJlYndkZTI5cW55djduOGVpbHp6azlrcGF5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L59aKIC2MFyfUfrz3n/giphy.gif">
 <p align="left">
   <a href="https://x.com/utkarsh15o7" target="blank">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRrazdjZXhkeGFjb2R1d3d6cjNmeGY0bmt0Nm5nejF1ZmVqNHZxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDGLRKwIMVXV5XLieP/giphy.gif" alt="X" width="30" height="30"/>
