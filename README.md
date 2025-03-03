@@ -34,6 +34,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1507&" alt="utkarsh1507" /></p>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGg5bXhjcjFwMDR2N2p2bWt2NnN0Y295dDR3MWw0d21zM21vaGUzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" 
      alt="New GIF" width="80" height="80" align="left" style="margin-right: 10px;"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFudzZjYm1qdTZnenExcnlsdThoMGNnN2JtbDZ2ajRpajNncmc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
+     alt="New GIF" width="80" height="80" align="left" style="margin-right: 10px;"/>
+
+
 
 
 
