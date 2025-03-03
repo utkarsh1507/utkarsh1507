@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="banner.png" alt="Utkarsh Srivastava Banner" width="120%" height="200px"/>
+  <img src="banner.png" alt="Utkarsh Srivastava Banner" width="100%" height="auto" style="max-width: 900px; height: auto;"/>
 </h1>
+
 
 
 <h1 align="center">Hi 👋, I'm Utkarsh Srivastava</h1>
