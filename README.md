@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="banner.png" alt="Utkarsh Srivastava Banner"/>
+  <img src="banner.png" alt="Utkarsh Srivastava Banner" width="250" height="350"/>
 </h1>
 
 <h1 align="center">Hi 👋, I'm Utkarsh Srivastava</h1>
