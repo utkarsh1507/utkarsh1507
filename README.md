@@ -3,7 +3,6 @@
 </h1>
 
 
-
 <h1 align="center">Hi 👋, I'm Utkarsh Srivastava</h1>
 <h3 align="center">"Building the future of Web3 & Blockchain from India 🇮🇳 | Smart Contracts, dApps, and Decentralized Innovation 🚀"</h3>
 
