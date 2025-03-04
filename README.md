@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Bannerr.png" alt="Utkarsh Srivastava Banner" width="100%" height="auto" style="max-width: 900px; height: auto;"/>
+  <img src="banners.png" alt="Utkarsh Srivastava Banner" width="100%" height="auto" style="max-width: 900px; height: auto;"/>
 </h1>
 
 
