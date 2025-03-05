@@ -48,7 +48,7 @@
      alt="New GIF" width="80" height="80" align="left" style="margin-right: 10px;"/>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3czdTltMWoyZmh5b2Nxd3A0cGx6d2phejUyY2V4ODFhdG8yeWk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZaSzHGPSPnn6lMM3P0/giphy.gif" 
      alt="New GIF" width="80" height="80" align="left" style="margin-right: 10px;"/>
-<img src="  https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV6NmxncDdyMWlwdmJoNDVlNHR6ZGswM2ZyNWV3OXBoaG5nc2lsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gif" 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV6NmxncDdyMWlwdmJoNDVlNHR6ZGswM2ZyNWV3OXBoaG5nc2lsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gif" 
      alt="New GIF" width="80" height="80" align="left" style="margin-right: 10px;"/>
 
 
