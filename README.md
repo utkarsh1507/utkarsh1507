@@ -44,14 +44,9 @@
      alt="New GIF" width="80" height="80" align="left" style="margin-right: 10px;"/>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnk1a2xneDY3MG0wOXRvNjJ0ZDlwbDJ4eGoyc2xkdHV3cnQ1dzhqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" 
      alt="New GIF" width="80" height="80" align="left" style="margin-right: 10px;"/>
-  <img src="  https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3llYm90ZnFlMHlib3QyNno4cWM4ajlwNzNzd3lxOWJmMnNlOGlmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif"
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3llYm90ZnFlMHlib3QyNno4cWM4ajlwNzNzd3lxOWJmMnNlOGlmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif" 
      alt="New GIF" width="80" height="80" align="left" style="margin-right: 10px;"/>
-
-
-
-
-
-
 
 
 
