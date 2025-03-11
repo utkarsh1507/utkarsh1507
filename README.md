@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **utkarshzz007@gmail.com or utkarshzzz007@gmail.com**
 
-- ⚡ Fun fact **"Utkarsh loves diving into Web3 and blockchain, but secretly wishes there was a smart contract to automate making chai! ☕🚀"**
+- ⚡ Fun fact **Utkarsh loves diving into Web3 and blockchain, but secretly wishes there was a smart contract to automate making chai! ☕🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
