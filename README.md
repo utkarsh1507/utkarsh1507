@@ -3,7 +3,7 @@
 </h1>
 
 
-<h1 align="center">Hi 👋, I'm Utkarsh Srivastava</h1>
+<h1 align="center">Hi 👋 I'm Utkarsh Srivastava</h1>
 <h3 align="center">Building the future of Web3 & Blockchain from India 🇮🇳 | Smart Contracts, DApps, and Decentralized Innovation 🚀</h3>
 
 <img align = "right" alt="globe" height="200" width="350" src="globe.gif">
