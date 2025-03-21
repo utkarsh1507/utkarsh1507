@@ -2,7 +2,6 @@
   <img src="poster.png" alt="Utkarsh Srivastava Banner" width="100%" height="auto" style="max-width: 900px; height: auto;"/>
 </h1>
 
-
 <h1 align="center">Hi 👋 I'm Utkarsh Srivastava</h1>
 <h3 align="center">Building the future of Web3 & Blockchain from India 🇮🇳 | Smart Contracts, DApps, and Decentralized Innovation 🚀</h3>
 
