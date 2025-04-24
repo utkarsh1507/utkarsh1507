@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋 I'm Utkarsh Srivastava</h1>
 <h3 align="center">Building the future of Web3 & Blockchain from India 🇮🇳 | Smart Contracts, DApps, and Decentralized Innovation 🚀</h3>
 
-<img align = "right" alt="globe" height="200" width="350" src="globe.gif">
+<img align = "right" alt="globe" height="200" width="350" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 <p align="left">
   <a href="https://x.com/utkarsh15o7" target="blank">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRrazdjZXhkeGFjb2R1d3d6cjNmeGY0bmt0Nm5nejF1ZmVqNHZxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDGLRKwIMVXV5XLieP/giphy.gif" alt="X" width="30" height="30"/>
