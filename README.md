@@ -41,6 +41,11 @@
   <img src="https://streak-stats.demolab.com?user=utkarsh1507&theme=transparent&hide_total_contributions=true" alt="GitHub Streak" />
 </a>
 
+<a href="https://git.io/streak-stats">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU1MjM1NTAsIm5iZiI6MTc0NTUyMzI1MCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI0VDE5MzQxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0NGU1N2M0Nzc2M2U4NzY4ZTA2ZThjMzFiNWVlMGI3MjViM2Y4M2Q2OTZlZTNmMTY0NGZkZThjNmRjYzNhODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NkFFwTMJBjz7y4YoIPIAngP0M5gnNZXpO6o9WG7tOFs" alt="GitHub Streak" />
+</a>
+
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGg5bXhjcjFwMDR2N2p2bWt2NnN0Y295dDR3MWw0d21zM21vaGUzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" 
      alt="New GIF" width="80" height="80" align="left" style="margin-right: 10px;"/>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFudzZjYm1qdTZnenExcnlsdThoMGNnN2JtbDZ2ajRpajNncmc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
