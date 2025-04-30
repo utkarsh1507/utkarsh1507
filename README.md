@@ -13,7 +13,7 @@
   
 </p>
 
-- 🔭 I’m currently working on **Decentralized Exchange**
+- 🔭 I’m currently working on **Autonomous AI Agent that can perfrom on chain actions**
 
 - 🌱 I’m currently learning **Smart Contract Security, Smart Contract DevOps, Vyper**
 
