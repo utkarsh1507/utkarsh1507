@@ -2,7 +2,7 @@
   <img src="poster.png" alt="Utkarsh Srivastava Banner" width="100%" height="auto" style="max-width: 900px; height: auto;"/>
 </h1>
 
-<h1 align="center">Hi 👋 I'm Utkarsh Srivastava</h1>
+<h1 align="center">Hi 👋 I'm Utkarsh Srivastava</h1> 
 <h3 align="center">Building the future of Web3 & Blockchain from India 🇮🇳 | Smart Contracts, DApps, and Decentralized Innovation 🚀</h3>
 <a>
 <img align = "right" alt="coding" height="200" width="200" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"> </a>
